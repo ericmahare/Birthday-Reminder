@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Square+Peg&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(74, 165, 244);
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 28Vw;
+  min-height: 40vw;
+  margin: 3rem auto 0 auto;
+  background-color: #fff;
+  padding: 2rem;
+}
+
+.title {
+  margin-bottom: 2rem;
+}
+
+.data-container {
+  margin-top: 20px;
+  display: flex;
+  gap: 12px;
+}
+
+.img-container {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+}
+
+img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: var(--light-shadow);
+}
+
+.data-info {
+  margin-top : 18px;
+  font-family: inherit;
+}
+
+.name {
+  font-weight: 900;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.btn {
+  margin-top: 2.5rem;
+  width: 100%;
+  height: 40px;
+  border: 0;
+  background-color:rgb(74, 165, 244);
+  color: #fff;
+  font-size: 1.1rem;
+  cursor: pointer;
+  text-transform: capitalize;
+}
