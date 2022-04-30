@@ -13,7 +13,7 @@ body {
 
 .container {
   width: 28Vw;
-  min-height: 40vw;
+  min-height: 3rem;
   margin: 3rem auto 0 auto;
   background-color: #fff;
   padding: 2rem;
