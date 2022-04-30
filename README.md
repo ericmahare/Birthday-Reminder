@@ -6,8 +6,11 @@
 
 - HTML
 - CSS
-- JavaScript
-- webpack
+- React
+
+## Live Demo
+
+[view Website](https://birthday-reminder-prac.netlify.app/)
 
 ## Getting Started
 
