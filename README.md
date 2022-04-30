@@ -1,6 +1,6 @@
 # Birthday Reminder
 
-> This a simple front-end application that displays Birthdays of users.
+> This is a simple front-end application that displays Birthdays of users.
 
 ## Built With
 
