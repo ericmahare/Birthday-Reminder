@@ -1,6 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# My Portfolio
+# Birthday Reminder
 
 > This a simple front-end application that displays Birthdays of users.
 
@@ -19,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 - get the directory that you want to clone the repository.
 - open the command prompt in this directory.
 - write `git clone https://github.com/ericmahare/Birthday-Reminder.git`.
-- go to the repository folder in your command prompt `cd todo-list`
+- go to the repository folder in your command prompt `cd Birthday-Reminder`
 - write `npm install` to install all the packages.
 - write `npm start` to start the live server
 
